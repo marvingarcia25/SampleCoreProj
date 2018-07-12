@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marvingarcia.PRD-INT-OWK-184\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marvingarcia.PRD-INT-OWK-184\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
